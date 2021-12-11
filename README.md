@@ -11,7 +11,7 @@
 The primary objective of the project is to determine the clients that would most likely purchase Apple's newly released M1 Macbook.
 
 ### 2. DATA COLLECTION:
-The data was collected through a survey sent across different techno savvy groups over 1 week period of time.
+The data was collected through a survey sent across different social media channels to a targeted techno savvy groups over 1 week period of time.
 
 ### 3. DATA PREPARATION & ANALYSIS :
 Collected data is prepared by converting columns with appropriate labels.
