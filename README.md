@@ -5,7 +5,7 @@
 </p>
 
 # Apple_M1_Purchase_Prediciton
-**Predict Purchasers of Apple M1 Macbooks using Support vector machine** ![Click](https://github.com/Rupesh707/Apple_M1_Purchase_Prediciton/blob/master/Final_Version%203.ipynb)
+**Predict Purchasers of Apple M1 Macbooks using Support vector machine** [Click](https://github.com/Rupesh707/Apple_M1_Purchase_Prediciton/blob/master/Final_Version%203.ipynb)
 
 ### 1. PROJECT OBJECTIVES:
 The primary objective of the project is to determine the clients that would most likely purchase Apple's newly released M1 Macbook.
