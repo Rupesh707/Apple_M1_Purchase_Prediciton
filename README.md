@@ -1,7 +1,7 @@
 ## @Author : Rupesh Kumar
 
 <p align="center">
-  <img src="assets/M1.jpg">
+  <img src="assets/M1.jpeg">
 </p>
 
 # Apple_M1_Purchase_Prediciton
