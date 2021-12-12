@@ -1,4 +1,5 @@
 ## @Author : Rupesh Kumar
+Licensed Under the [MIT License](LICENSE.md)
 
 <p align="center">
   <img src="assets/M1.jpeg">
